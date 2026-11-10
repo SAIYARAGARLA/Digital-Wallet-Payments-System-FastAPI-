@@ -1,0 +1,1 @@
+Run `alembic revision --autogenerate -m 'initial schema'` and `alembic upgrade head` after configuring .env.
